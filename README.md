@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajesh Goud!  
 
-🎓 I'm currently pursuing a B.Tech in *Computer Science and Engineering* at *Thapar University* (2023-2027).  
+🎓 I'm currently pursuing a B.Tech in *Computer Science and Engineering* at *Thapar Institute of Engineering & Technology* (2023-2027).  
 🌱 I’m learning and improving my skills in *Web Development, **Data Structures, and **Problem Solving*.  
 💻 I have experience with *HTML, **CSS, **JavaScript, **C Language, **OOP, and **Data Structures*.
 
