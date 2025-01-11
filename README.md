@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajesh Goud!  
 
-<!--
-**Rajesh3999/Rajesh3999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a B.Tech in *Computer Science and Engineering* at *Thapar University* (2023-2027).  
+🌱 I’m learning and improving my skills in *Web Development, **Data Structures, and **Problem Solving*.  
+💻 I have experience with *HTML, **CSS, **JavaScript, **C Language, **OOP, and **Data Structures*.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools:
+- HTML, CSS, JavaScript  
+- C Programming  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's connect!  
+- *LinkedIn:* [Rajesh Goud Baswannagari](#)  
+- *Email:* rajeshgoud7666@gmail.com 
