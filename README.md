@@ -22,9 +22,7 @@
 
 <table>
 <tr>
-<td align="center" width="80">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/><br>Arduino
-</td>
+
 
 <td align="center" width="80">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/><br>Bootstrap
@@ -38,9 +36,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
 </td>
 
-<td align="center" width="80">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django
-</td>
+
 
 <td align="center" width="80">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML
@@ -80,13 +76,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React
 </td>
 
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Sklearn
-</td>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/><br>Vue
-</td>
+
+
 </tr>
 </table>
 
